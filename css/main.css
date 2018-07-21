@@ -1997,7 +1997,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8a8711;
+  background: #ed95bf;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2838,7 +2838,7 @@ ul.breadcrumb li+li:last-child {
 .site-meta {
   padding: 20px 0;
   color: #fff;
-  background: #a6cfe2;
+  background: #5dd5ff;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
@@ -2860,7 +2860,7 @@ ul.breadcrumb li+li:last-child {
 .site-subtitle {
   margin: 10px 10px 0;
   font-weight: initial;
-  color: #0b0c11;
+  color: #767171;
 }
 .site-search form {
   display: none;
