@@ -1,0 +1,7 @@
+# Ignore in the hexo branch (source code )
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+public/
+.deploy*/
